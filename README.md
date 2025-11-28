@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hey, I'm Mohit Kapuriya
 
-<!--
-**ms0930k/ms0930k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Competitive Programmer | Hackathon Lead**
 
-Here are some ideas to get you started:
+- 🔥 **LeetCode 1788 (Top ~8%) | CodeChef 1668+**
+- 🧠 **Solved 1000+ algorithmic problems** — DP, Graphs, Number Theory specialist  
+- ⚙️ **MERN Developer** — real-time systems, secure data flows, RBAC, RLS  
+- 🏆 **Head of TechFiesta** — leading PICT’s international hackathon  
+- 📚 **Structured coding mindset** → *Brute → Optimize → Final Solution*  
+- 🚀 Love building systems that scale & solving problems that matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+**Languages:** C++, JavaScript, Python, SQL  
+**Core:** DSA, DBMS, OS, OOPS  
+**Tools/Tech:** React.js, Node.js, Supabase, PostgreSQL, Git, REST APIs  
+
+---
+
+## 🚧 Featured Projects
+
+### 🔹 **EventFlow** — Real-time Event Platform  
+- Live updates with **Supabase Subscriptions**  
+- **RLS-protected** privacy & **RBAC-based** unified permissions  
+
+### 🔹 **RetailSync** — Store Ops Dashboard  
+- Automated inventory via **Database Triggers**  
+- Designed **transaction-safe schema** for concurrent operations  
+
+---
+
+## 🏆 Leadership
+- **Head, TechFiesta International Hackathon (2025–Present)**
+- **Hospitality Lead, InC’25 — managed 60 volunteers & VIP judges**
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haiwaan93&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haiwaan93&layout=compact&theme=tokyonight)
+
+---
+
+## 👁️ Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=haiwaan93&color=blue)
+
+---
+
+### ⚡ Philosophy  
+**Wake. Code. Lift. Repeat.**
