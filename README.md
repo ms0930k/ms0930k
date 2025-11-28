@@ -28,13 +28,6 @@
 - Automated inventory via **Database Triggers**  
 - Designed **transaction-safe schema** for concurrent operations  
 
----
-
-## 🏆 Leadership
-- **Head, TechFiesta International Hackathon (2025–Present)**
-- **Hospitality Lead, InC’25 — managed 60 volunteers & VIP judges**
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haiwaan93&show_icons=true&theme=tokyonight)
