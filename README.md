@@ -2,9 +2,8 @@
 
 **Software Engineer | Competitive Programmer | Hackathon Lead**
 
-- 🔥 **LeetCode 1788 (Top ~8%) | CodeChef 1668+**
-- 🧠 **Solved 1000+ algorithmic problems** 
-- ⚙️ **MERN Developer** — real-time systems, secure data flows
+- 🔥 **Knight@LeetCode CodeChef 1700**
+- 🧠 **Solved 1000+ problems** 
 - 🏆 **Head of TechFiesta** — leading PICT’s international hackathon  
 - 📚 **Structured coding mindset** → *Brute → Optimize → Final Solution*  
 - 🚀 Love building systems that scale & solving problems that matter.
